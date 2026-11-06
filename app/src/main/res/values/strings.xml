@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">音乐播放器</string>
+    <string name="pick_folder">选文件夹</string>
+    <string name="pick_file">选文件</string>
+    <string name="mode_order">顺序循环</string>
+    <string name="mode_shuffle">随机播放</string>
+    <string name="mode_one">单曲循环</string>
+    <string name="empty_hint">还没有歌曲\n\n点上方「选文件夹」选择存放音乐的目录\n或「选文件」直接挑一首歌</string>
+    <string name="no_song">未在播放</string>
+</resources>
