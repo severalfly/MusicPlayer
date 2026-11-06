@@ -4,6 +4,8 @@ Android 8.0+ 本地音乐播放器，纯本地、无广告、不联网、不申�
 
 ## 安装包
 
+可直接在 [Releases](https://github.com/severalfly/MusicPlayer/releases) 下载 `MusicPlayer-v1.0.0.apk`，或从本仓库 `dist/` 取：
+
 - `dist/音乐播放器.apk` —— 正式版（已用 debug 签名，可直接安装）
 - `dist/音乐播放器-debug.apk` —— 调试版
 
